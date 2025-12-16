@@ -16,6 +16,3 @@ This R Shiny application demonstrates:
 ### Tools
 - R
 - Shiny
-
-### Author
-Pratap Mangalam
